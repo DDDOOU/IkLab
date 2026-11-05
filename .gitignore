@@ -1,0 +1,35 @@
+# Unity 生成目录
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.userprefs
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 构建产物
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# 离线测试产物
+Tests/*.exe
+Tests/*.mdb
+Tests/*.pdb
